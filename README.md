@@ -18,7 +18,7 @@ I was a part of many aspects of the finished product such as...
 - 3D modeling and Asset Creation
 
 ### Engine Design
-The engine is symplastic. With a basic rendering pipeline using Direct X 10, with a custome made math library for basic physics, and animation. 
+The engine is simple. With a basic rendering pipeline using Direct X 10, with a custome made math library for basic physics, and animation. 
 
 We used Direct x 2D for all UI elements.
 
